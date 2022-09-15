@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivolen
-- 👀 I’m interested in computer science  , i'm a first year college student studyin AI % ML
-- 🌱 I’m currently know how to code in  java,python,html5, CSS , javascript 
+- 👀 I’m interested in computer science  , i'm a first year college student studyin AI and ML
+- 🌱 I currently know how to code in  java,python,html5, CSS , javascript 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram is shivolen_ 
