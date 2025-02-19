@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivolen</h1>
 <h3 align="center">A passionate Data Science and Machine learning developer from India</h3>
 
-- 🌱 I’m currently learning **Django / Nodejs**
+- 🌱 I’m currently learning **React and working on building my personal website**
 
 - 📫 How to reach me **mshivolen@gmail.com**
 
