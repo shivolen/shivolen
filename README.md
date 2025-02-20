@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivolen&show_icons=true&locale=en" alt="shivolen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivolen&" alt="shivolen" /></p>
+
+### 🐍 A Snake Eating My Contributions:
+![snake gif](https://github.com/Shivolen/Shivolen/blob/output/snake.svg)
+
