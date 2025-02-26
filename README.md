@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivolen</h1>
-<h3 align="center">A passionate Data Science and Machine learning developer from India</h3>
+<h3 align="center">I am a passionate Data Science and Machine learning developer from India</h3>
 
 - 🌱 I’m currently learning **React and working on building my personal website**
 
