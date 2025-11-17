@@ -48,23 +48,10 @@
 ---
 
 ### 🛠️ **Tech Stack**
-
-#### **Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nextjs,fastapi,aws,postgres,mysql,docker,powerbi,jupyter,vscode,webstorm,github" />
 </div>
 
-#### **Cloud & DevOps**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
-</div>
 
-#### **Databases**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</div>
-
-#### **Tools & IDEs**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,github" />
-</div>
+### 🐍 A Snake Eating My Contributions:
+![snake gif](https://github.com/Shivolen/Shivolen/blob/output/snake.svg)
