@@ -66,5 +66,5 @@
 
 #### **Tools & IDEs**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,jupyter,powerbi,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,github" />
 </div>
