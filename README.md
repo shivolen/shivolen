@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 **GitHub Stats (Accurate for your profile)**
+### 📊 **GitHub Stats**
 
 <div align="left">
   <img 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🏆 **GitHub Achievements (Dynamic & Accurate)**
+### 🏆 **GitHub Achievements**
 
 <div align="center">
   <img 
